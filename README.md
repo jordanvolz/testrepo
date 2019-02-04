@@ -1,2 +1,0 @@
-# testrepo
-dss integration test
